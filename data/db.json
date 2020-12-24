@@ -1,16 +1,34 @@
 {
-	"projects": [
-		{
-			"id": 1,
-			"title": "create new homepage banner",
-			"details": "Lorem",
-			"complete": false
-		},
-		{
-			"id": 2,
-			"title": "Make marketing email",
-			"details": "Lorem",
-			"complete": true
-		}
-	]
+  "projects": [
+    {
+      "id": 1,
+      "title": "create new homepage banner",
+      "details": "Lorem",
+      "complete": true
+    },
+    {
+      "id": 2,
+      "title": "Make marketing email",
+      "details": "Lorem",
+      "complete": true
+    },
+    {
+      "title": "New project",
+      "details": "New details",
+      "complete": true,
+      "id": 3
+    },
+    {
+      "title": "asdf",
+      "details": "asdf",
+      "complete": false,
+      "id": 4
+    },
+    {
+      "title": "sadfas123",
+      "details": "asdfas12312",
+      "complete": false,
+      "id": 5
+    }
+  ]
 }
